@@ -1,4 +1,3 @@
 # muslim-book-store
-Muslim Book Store ( Toko Buku Islam / Muslim ) - Final Project of Design &amp; Web Programming ( 3rd Semester / 2018 )
-
+Muslim Book Store ( Toko Buku Islam / Muslim ) - Kelompok 8 Rama Ajis Iqbal
 Cover Book Images : @najah.bookstore / @buku_ukkasyah
